@@ -5,6 +5,9 @@
 </head>
 
 <body bgcolor="#E6E6FA">
+  <h1>Vivekaditya Thiruveedhi</h1>
+  <h3>EMAIL:vivekadityat@gmail.com<h3> 
+  <h3>PHONE:(571)342-9016</h3>
 <h2><b>CI-CD |  Version Control  |  Monitoring  |  Containers  |  Automation  |  Orchestration  | Architecture  |  DevOps/Aws Cloud</b> </h2>
 <!-- Site navigation menu -->
 <ul class="navbar">
@@ -14,21 +17,23 @@
   </ul>
 
 <!-- Main content -->
-<h2><b>My CERTIFICATIONS</b></h2>
-<h>Solutions Architect Associate Level. Validation Number VYS1FKQKDBEE1KC0 </h> 
-<h>Developer Associate Level Validation Number 5R7CDTS2DFBE1YWS </h>
-<h>Google Analytics Certification.</h>
-<h>HubSpot Sales Software and HubSpot Design.</h>
-  
+<ul><b> <h2>My CERTIFICATIONS</b>
+<li>Solutions Architect Associate Level. Validation Number VYS1FKQKDBEE1KC0 </li> 
+<li>Developer Associate Level Validation Number 5R7CDTS2DFBE1YWS</li>
+<li>Google Analytics Certification.</li>
+<li>HubSpot Sales Software and HubSpot Design.</li>
+  </ul>  
  
-<h2><b>EDUCATION </b></h2>
-  <h>Master's in Computer Science, Fairleigh Dickinson University (FDU). GPA: 3.9/4.0 </h1>
-  <h>Bachelor of Computer Science, Jawaharlal Nehru Technological University</h>
+<ul><b><h2>EDUCATION </b>
+  <li>Master's in Computer Science, Fairleigh Dickinson University (FDU). GPA: 3.9/4.0 </li>
+  <li>Bachelor of Computer Science, Jawaharlal Nehru Technological University</li>
+  </ul>
 
-  <h2><b>EXPERIENCE</b></h2>
-  <h>Fairleigh Dickinson Univrsity For MetTel  (Holmdel, NJ)</h>
-  <h>Fairleigh Dickinson University (Teaneck, NJ)</h>
-  <h>Bank of America (Bangalore, INDIA)</h>
+  <ul><b><h2>EXPERIENCE</b>
+  <li>Fairleigh Dickinson Univrsity For MetTel  (Holmdel, NJ)</li>
+  <li>Fairleigh Dickinson University (Teaneck, NJ)</li>
+  <li>Bank of America (Bangalore, INDIA)</li>
+    </ul>
   
 </body>
 </html>
