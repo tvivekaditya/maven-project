@@ -17,7 +17,7 @@
     </ul>
 
 <!-- Main content -->
-  <h3><b><ul>My CERTIFICATIONS</b></h3>
+  <ul><h3><b>My CERTIFICATIONS</b></h3>
   <li>Solutions Architect Associate Level. Validation Number VYS1FKQKDBEE1KC0 </li> 
   <li>Developer Associate Level Validation Number 5R7CDTS2DFBE1YWS</li>
   <li>Google Analytics Certification.</li>
