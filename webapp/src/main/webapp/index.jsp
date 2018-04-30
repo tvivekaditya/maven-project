@@ -10,26 +10,26 @@
   <h3>PHONE:(571)342-9016</h3>
 <h2><b>CI-CD |  Version Control  |  Monitoring  |  Containers  |  Automation  |  Orchestration  | Architecture  |  DevOps/Aws Cloud</b> </h2>
 <!-- Site navigation menu -->
-<ul class="navbar">
-  <li><a href="index.html">GitHub</a>
-  <li><a href="musings.html">Hacker Rank</a>
-  <li><a href="town.html">LinkedIn</a>
-  </ul>
+<ul class="navbar"> <h2>
+  <li><a href="index.html"> <b>GitHub</b></a>
+  <li><a href="musings.html"><b>Hacker Rank</b></a>
+  <li><a href="town.html"><b>LinkedIn</b></a> </h2>
+    </ul>
 
 <!-- Main content -->
-<ul><b> <h2>My CERTIFICATIONS</b>
+    <h2><b><ul>My CERTIFICATIONS</b></h2>
 <li>Solutions Architect Associate Level. Validation Number VYS1FKQKDBEE1KC0 </li> 
 <li>Developer Associate Level Validation Number 5R7CDTS2DFBE1YWS</li>
 <li>Google Analytics Certification.</li>
 <li>HubSpot Sales Software and HubSpot Design.</li>
   </ul>  
  
-<ul><b><h2>EDUCATION </b>
+    <ul><b><h2>EDUCATION </b></h2>
   <li>Master's in Computer Science, Fairleigh Dickinson University (FDU). GPA: 3.9/4.0 </li>
   <li>Bachelor of Computer Science, Jawaharlal Nehru Technological University</li>
   </ul>
 
-  <ul><b><h2>EXPERIENCE</b>
+    <ul><b><h2>EXPERIENCE</b></h2>
   <li>Fairleigh Dickinson Univrsity For MetTel  (Holmdel, NJ)</li>
   <li>Fairleigh Dickinson University (Teaneck, NJ)</li>
   <li>Bank of America (Bangalore, INDIA)</li>
