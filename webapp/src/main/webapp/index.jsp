@@ -30,9 +30,9 @@
   </ul>
 
   <ul><b><h3>EXPERIENCE</b></h3>
-  <li>Fairleigh Dickinson Univrsity For MetTel  (Holmdel, NJ)</li>
+  <li>Fairleigh Dickinson Univrsity For MetTel (Holmdel, NJ)</li>
   <li>Fairleigh Dickinson University (Teaneck, NJ)</li>
-  <li>Bank of America (Bangalore, INDIA)</li>
+  <li>Bank of America (Bangalore,INDIA)</li>
     </ul>
   
 </body>
