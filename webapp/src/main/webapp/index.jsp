@@ -5,7 +5,7 @@
 </head>
 
 <body bgcolor="#E6E6FA">
-  <h2>Vivekaditya (viek) Thiruveedhi</h2>
+  <h2>Vivekaditya Thiruveedhi</h2>
   <h4>EMAIL:vivekadityat@gmail.com<h4> 
   <h4>PHONE:(571)342-9016</h4>
 <h3><b>CI-CD |  Version Control  |  Monitoring  |  Containers  |  Automation  |  Orchestration  | Architecture  |  DevOps/Aws Cloud</b> </h3>
